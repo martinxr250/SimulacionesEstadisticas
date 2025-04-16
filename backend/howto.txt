@@ -1,0 +1,4 @@
+## crear env
+PY -m uvicorn main:app --reload
+## ejecutar
+python -m uvicorn main:app --reload
