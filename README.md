@@ -49,7 +49,6 @@ Además, incorpora herramientas para realizar **pruebas estadísticas** como:
 
 ### 📉 Uniforme
 ![image](https://github.com/user-attachments/assets/9a0f13c9-07ee-46c5-9f60-7399518f4ac7)
-> Reemplazá las rutas con la correcta si vas a subir las imágenes en el repo, o usá Markdown directo con GitHub.
 
 ---
 
