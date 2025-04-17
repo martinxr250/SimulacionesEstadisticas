@@ -45,11 +45,10 @@ Además, incorpora herramientas para realizar **pruebas estadísticas** como:
 ## 📷 Capturas de Pantalla
 
 ### 📈 Exponencial
-![Histograma Exponencial](./path/to/exponencial.png)
+![image](https://github.com/user-attachments/assets/7a40f16e-a9d5-46cd-b6d2-d2ec13523cbf)
 
 ### 📉 Uniforme
-![Histograma Uniforme](./path/to/uniforme.png)
-
+![image](https://github.com/user-attachments/assets/9a0f13c9-07ee-46c5-9f60-7399518f4ac7)
 > Reemplazá las rutas con la correcta si vas a subir las imágenes en el repo, o usá Markdown directo con GitHub.
 
 ---
@@ -90,7 +89,7 @@ pip install -r requirements.txt
 uvicorn main:app --reload
 ```
 
-![image](https://github.com/user-attachments/assets/9a0f13c9-07ee-46c5-9f60-7399518f4ac7)
+
 
 ### Frontend (React)
 
@@ -103,7 +102,7 @@ npm run dev
 ---
 
 ## ✍️ Autor
-![image](https://github.com/user-attachments/assets/7a40f16e-a9d5-46cd-b6d2-d2ec13523cbf)
+
 
 **Martín Castro**  
 Estudiante de Ingeniería en Sistemas – UTN FRC  
